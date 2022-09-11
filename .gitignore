@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+# hexo g生成文件夹
+public/
+# 部署生成文件夹
+.deploy_git
